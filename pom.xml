@@ -26,6 +26,11 @@
 			<timezone>1</timezone>
 		</developer>
 	</developers>
+	<scm>
+		<url>scm:git:git@github.com:laaglu/vectomatic-parent.git</url>
+		<connection>scm:git:git@github.com:laaglu/vectomatic-parent.git</connection>
+		<developerConnection>scm:git:git@github.com:laaglu/vectomatic-parent.git</developerConnection>
+	</scm>
 	
 	<dependencyManagement>
 		<dependencies>
