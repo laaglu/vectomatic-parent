@@ -7,7 +7,7 @@
 	</parent>
 	<groupId>org.vectomatic</groupId>
 	<artifactId>vectomatic-parent</artifactId>
-	<version>0.3-SNAPSHOT</version>
+	<version>0.3</version>
 	<packaging>pom</packaging>
 
 	<name>Vectomatic parent pom</name>
