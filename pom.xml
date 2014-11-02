@@ -139,12 +139,19 @@
 				</executions>
 			</plugin>
 			
-			<!-- Define target version of maven-release-plugin -->
+			<!-- Define target version of maven-deploy-plugin -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-release-plugin</artifactId>
-				<version>2.2.2</version>
+				<artifactId>maven-deploy-plugin</artifactId>
+				<version>2.8.2</version>
 			</plugin>
+
+            <!-- Define target version of maven-release-plugin -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.2.2</version>
+            </plugin>
 			
 			<!-- Define target version of maven-site-plugin -->
 			<plugin>
