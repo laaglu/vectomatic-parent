@@ -99,6 +99,11 @@
             <artifactId>wagon-ssh</artifactId>
             <version>2.7</version>
         </extension>
+        <extension>
+            <groupId>org.apache.maven.wagon</groupId>
+            <artifactId>wagon-ssh-external</artifactId>
+            <version>2.7</version>
+        </extension>
       </extensions>
       <plugins>
 			<!-- Build using java 1.7. GWT requires at least Java 1.5 -->
