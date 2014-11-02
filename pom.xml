@@ -96,11 +96,6 @@
       <extensions>
         <extension>
             <groupId>org.apache.maven.wagon</groupId>
-            <artifactId>wagon-ssh</artifactId>
-            <version>2.7</version>
-        </extension>
-        <extension>
-            <groupId>org.apache.maven.wagon</groupId>
             <artifactId>wagon-ssh-external</artifactId>
             <version>2.7</version>
         </extension>
