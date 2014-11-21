@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>org.sonatype.oss</groupId>
 		<artifactId>oss-parent</artifactId>
-		<version>7</version>
+		<version>9</version>
 	</parent>
 	<groupId>org.vectomatic</groupId>
 	<artifactId>vectomatic-parent</artifactId>
@@ -153,7 +153,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>2.2.2</version>
+                <version>2.5.1</version>
             </plugin>
 			
 			<!-- Define target version of maven-site-plugin -->
