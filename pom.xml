@@ -27,9 +27,9 @@
 		</developer>
 	</developers>
 	<scm>
-		<url>scm:git:git@github.com:laaglu/vectomatic-parent.git</url>
-		<connection>scm:git:git@github.com:laaglu/vectomatic-parent.git</connection>
-		<developerConnection>scm:git:git@github.com:laaglu/vectomatic-parent.git</developerConnection>
+		<url>scm:git:git://git/vectomatic-parent.git</url>
+		<connection>scm:git:git://git/vectomatic-parent.git</connection>
+		<developerConnection>scm:git:git://git/vectomatic-parent.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 	
