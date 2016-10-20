@@ -7,7 +7,7 @@
 	</parent>
 	<groupId>org.vectomatic</groupId>
 	<artifactId>vectomatic-parent</artifactId>
-	<version>0.6</version>
+	<version>0.7-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Vectomatic parent pom</name>
@@ -30,7 +30,7 @@
 		<url>scm:git:git://git/vectomatic-parent.git</url>
 		<connection>scm:git:git://git/vectomatic-parent.git</connection>
 		<developerConnection>scm:git:git://git/vectomatic-parent.git</developerConnection>
-	  <tag>0.6</tag>
+	  <tag>HEAD</tag>
   </scm>
 	
 	<dependencyManagement>
